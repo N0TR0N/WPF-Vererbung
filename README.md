@@ -1,1 +1,1 @@
-# Sportboot_Übung_Letzte
+# Einfaches WPF Programm mit Vererbung
